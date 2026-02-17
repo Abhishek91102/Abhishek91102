@@ -25,36 +25,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 🔥 Highlight Projects
-
-### 🚀 Code Arena
-Real-time coding battle platform  
-Spring Boot • JWT • WebSockets • Redis • Microservices • Docker  
-
-### 💰 Fund Pulse
-Startup–Investor collaboration backend  
-Spring Boot • REST APIs • MongoDB • JWT  
-
----
-
-## 🎯 Current Focus
-
-- Advanced Spring Security
-- System Design fundamentals
-- Distributed backend systems
-- Writing production-ready Java code
-
----
 
 ## 📫 Connect
 
 📍 Pune, India  
 📧 gunjalabhishek680@gmail.com  
-🔗 LinkedIn: (Add your link)
 
----
 
 > "Clean code. Secure systems. Scalable architecture."
 
