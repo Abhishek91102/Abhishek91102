@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-
-## 🧠 About Me
+#🧠 About Me
 
 - Backend developer focused on **Spring Boot & RESTful API design**
 - Experience with **JWT authentication & Spring Security**
@@ -9,8 +8,6 @@
 - Hands-on with **Microservices (Eureka, API Gateway)**
 - AWS Certified Cloud Practitioner
 - Passionate about clean architecture & scalable system design
-
----
 
 ## 🛠 Tech Stack
 
