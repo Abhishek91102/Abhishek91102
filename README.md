@@ -1,12 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋 I'm Abhishek Gunjal</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Distributed Systems</h3>
 
-<p align="center">
-Building scalable backend systems • Designing secure APIs • Exploring cloud-native architectures
-</p>
-
----
 
 ## 🧠 About Me
 
