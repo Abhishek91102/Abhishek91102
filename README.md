@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-#🧠 About Me
-
 - Backend developer focused on **Spring Boot & RESTful API design**
 - Experience with **JWT authentication & Spring Security**
 - Built real-time systems using **WebSockets & Redis**
