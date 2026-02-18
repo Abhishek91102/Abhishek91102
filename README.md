@@ -7,7 +7,7 @@
 - AWS Certified Cloud Practitioner
 - Passionate about clean architecture & scalable system design
 
-## 🛠 Tech Stack
+## 🛠 Tech StacK
 
 ### 💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
